@@ -1,0 +1,11 @@
+{
+  "presets": ["C:/Users/lenovo/AppData/Local/Programs/Mendix/10.12.2.41995/modeler/tools/node/node_modules/metro-react-native-babel-preset"],
+  "plugins": [
+    [
+      "C:/Users/lenovo/AppData/Local/Programs/Mendix/10.12.2.41995/modeler/tools/node/node_modules/babel-plugin-inline-import",
+      {
+        "extensions": [".svg"]
+      }
+    ]
+  ]
+}

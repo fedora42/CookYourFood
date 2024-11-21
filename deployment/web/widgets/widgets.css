@@ -1,0 +1,37 @@
+.mx-image-viewer{height:100%;width:100%}.mx-image-viewer-responsive img{display:block;max-height:100%;max-width:100%}.mx-image-viewer-lightbox-backdrop{background-color:rgba(0,0,0,.85);inset:0;position:fixed;z-index:110}.mx-image-viewer-lightbox-backdrop .close-button{background:none;border:none;color:#fff;cursor:pointer;display:flex;padding:8px;position:absolute;right:30px;top:30px}.mx-image-viewer-lightbox-backdrop .close-button .removeIcon{height:16px;width:16px}.mx-image-viewer-lightbox{left:50%;position:fixed;top:50%;transform:translate(-50%,-50%);z-index:210}.mx-image-viewer.mx-image-background{background-position:50%;background-repeat:no-repeat}
+/* based on: https://raw.githubusercontent.com/mendix/atlas-framework/master/_variables.scss */
+.widget-star-rating-font-small {
+  font-size: 16px; }
+
+.widget-star-rating-font-medium {
+  font-size: 30px; }
+
+.widget-star-rating-font-large {
+  font-size: 50px; }
+
+.widget-star-rating-empty {
+  color: #ccc; }
+
+.widget-star-rating-full-widget {
+  color: #ffa611; }
+
+.widget-star-rating-full-default {
+  color: #DDDDDD; }
+
+.widget-star-rating-full-primary {
+  color: #0595DB; }
+
+.widget-star-rating-full-success {
+  color: #76CA02; }
+
+.widget-star-rating-full-info {
+  color: #48B0F7; }
+
+.widget-star-rating-full-warning {
+  color: #f99b1d; }
+
+.widget-star-rating-full-danger {
+  color: #ed1c24; }
+
+.widget-star-rating-full-inverse {
+  color: #252C36; }

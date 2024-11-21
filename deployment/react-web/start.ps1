@@ -1,0 +1,1 @@
+C:/Users/lenovo/AppData/Local/Programs/Mendix/10.12.2.41995\modeler\tools\node\win-x64\node.exe C:/Users/lenovo/AppData/Local/Programs/Mendix/10.12.2.41995\modeler\tools\node\node_modules\rollup\dist\bin\rollup -c -w
